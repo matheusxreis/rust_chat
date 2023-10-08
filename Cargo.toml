@@ -1,5 +1,5 @@
 [package]
-name = "threads"
+name = "rust_chat_tcp"
 version = "0.1.0"
 edition = "2021"
 
